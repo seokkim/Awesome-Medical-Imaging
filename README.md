@@ -1,12 +1,12 @@
-# Awesome-Medical-Imaging
+ï»¿# Awesome-Medical-Imaging
 
 Curated List of Medical Imaging
 
 Collaborators
 
-ÀÌÁØÈ£ junhoning@gmail.com
-±èÈÖ¿µ astaria82@gmail.com
-±è¼¼¿Á bboyseiok@gmailcom
+ì´ì¤€í˜¸ junhoning@gmail.com
+ê¹€íœ˜ì˜ astaria82@gmail.com
+ê¹€ì„¸ì˜¥ bboyseiok@gmailcom
 
 Data Science Bowl 2017 | Kaggle - https://www.kaggle.com/c/data-science-bowl-2017
 https://github.com/beamandrew/medical-data/blob/master/README.md
