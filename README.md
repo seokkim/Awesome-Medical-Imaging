@@ -9,7 +9,7 @@ Curated List of Medical Imaging
 - [Lectures](#lectures)
 - [Tutorials](#tutorials)
 - [X-ray, 2d images](#x-ray-2d-images)
-- [Related Awesome Lists)(#related-awesome-lists)
+- [Related Awesome Lists](#related-awesome-lists)
 
 ## Papers
 * [LUNA 16 Challenge Review](https://arxiv.org/abs/1612.08012)
@@ -27,6 +27,7 @@ Curated List of Medical Imaging
 ## Data
 * [medical data by beamandrew](https://github.com/beamandrew/medical-data/blob/master/README.md)
 * [Openi - nih.gov](https://openi.nlm.nih.gov/)
+
   query example: https://openi.nlm.nih.gov/gridquery.php?q=&it=x,xg&sub=x&m=1&n=101
 
 ## Lectures
