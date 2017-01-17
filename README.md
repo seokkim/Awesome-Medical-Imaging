@@ -9,6 +9,7 @@ Curated List of Medical Imaging
 - [Lectures](#lectures)
 - [Tutorials](#tutorials)
 - [X-ray, 2d images](#x-ray-2d-images)
+- [MRI, CT, 3d images](#mri-ct-3d-images)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ## Papers
@@ -47,6 +48,10 @@ Curated List of Medical Imaging
 ## X-ray, 2d images
 * [Deep Learning-based Framework for Cancer Classification](https://github.com/CityUHK-CompBio/DeepCC)
 * [X-ray Classification](https://github.com/ayush1997/Xvision)
+
+## MRI, CT, 3d images
+* [3d Convolutional Neural Network](http://www.doc.ic.ac.uk/~bglocker/pdfs/kamnitsas2015isles.pdf)
+* [Deepmedic](https://github.com/Kamnitsask/deepmedic)
 
 ## Related Awesome Lists
 
