@@ -14,6 +14,10 @@ Curated List of Medical Imaging
 ## Papers
 * [LUNA 16 Challenge Review](https://arxiv.org/abs/1612.08012)
 * [Deep Learning for Medical Image Segmentation](https://arxiv.org/pdf/1505.02000.pdf)
+* [Brain Tumor Segmentation with Deep Nerual Networks](https://arxiv.org/pdf/1505.03540v3.pdf)
+* [Lunit - Deconvolutional Feature Stacking for Weakly-Supervised Semantic Segmentation](https://arxiv.org/pdf/1602.04984.pdf)
+
+Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](https://arxiv.org/pdf/1505.04366.pdf) (7th ranked in VOC2012)
 
 ## Collaborators
 * 이준호 junhoning@gmail.com
