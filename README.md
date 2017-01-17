@@ -52,6 +52,8 @@ Curated List of Medical Imaging
 ## MRI, CT, 3d images
 * [3d Convolutional Neural Network](http://www.doc.ic.ac.uk/~bglocker/pdfs/kamnitsas2015isles.pdf)
 * [Deepmedic](https://github.com/Kamnitsask/deepmedic)
+* [V-Net: Fully Convolutional Neural Networks for
+Volumetric Medical Image Segmentation](http://campar.in.tum.de/pub/milletari2016Vnet/milletari2016Vnet.pdf)[[git]](https://github.com/faustomilletari/VNet)
 
 ## Related Awesome Lists
 
