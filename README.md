@@ -7,12 +7,13 @@ Curated List of Medical Imaging
 - [Collaborators](#collaborators)
 - [Competitions](#competitions)
 - [Lectures](#lectures)
+- [Tutorials](#tutorials)
 
 ## Papers
 * [LUNA 16 Challenge Review](https://arxiv.org/abs/1612.08012)
+* [Deep Learning for Medical Image Segmentation](https://arxiv.org/pdf/1505.02000.pdf)
 
 ## Collaborators
-
 * 이준호 junhoning@gmail.com
 * 김휘영 astaria82@gmail.com
 * 김세옥 bboyseiok@gmail.com
@@ -28,3 +29,10 @@ Curated List of Medical Imaging
 * [Machine learning meets medical imaging: From signals to clinically useful information - SCI Institute, Univ. of Utah](https://www.youtube.com/watch?v=7vtpWbrVdDY)
 * [Machine Learning in Health Care - Microsoft Research](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Better Medicine Through Machine Learning | Suchi Saria | TEDxBoston](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
+
+## Tutorials
+* [Making 3d numpy array with pydicom Tutorial](https://www.kaggle.com/rmchamberlain/data-science-bowl-2017/dicom-to-3d-numpy-arrays)
+* [Data-Science-Bowl-Preprocessing-Tutorial](https://www.kaggle.com/gzuidhof/data-science-bowl-2017/full-preprocessing-tutorial)
+* [Medical-Image-Analysis-IPython-Tutorials](https://github.com/curiale/Medical-Image-Analysis-IPython-Tutorials)
+* [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio)
+* [Deep Learning-based Framework for Cancer Classification](https://github.com/CityUHK-CompBio/DeepCC)
