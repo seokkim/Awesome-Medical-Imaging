@@ -11,6 +11,7 @@ Curated List of Medical Imaging
 - [X-ray, 2d images](#x-ray-2d-images)
 - [MRI, CT, 3d images](#mri-ct-3d-images)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Remarks](#remarks)
 
 ## Papers
 * [LUNA 16 Challenge Review](https://arxiv.org/abs/1612.08012)
@@ -53,8 +54,12 @@ Curated List of Medical Imaging
 * [3d Convolutional Neural Network](http://www.doc.ic.ac.uk/~bglocker/pdfs/kamnitsas2015isles.pdf)
 * [Deepmedic](https://github.com/Kamnitsask/deepmedic)
 * [V-Net: Fully Convolutional Neural Networks for
-Volumetric Medical Image Segmentation](http://campar.in.tum.de/pub/milletari2016Vnet/milletari2016Vnet.pdf)[[git]](https://github.com/faustomilletari/VNet)
+Volumetric Medical Image Segmentation](http://campar.in.tum.de/pub/milletari2016Vnet/milletari2016Vnet.pdf)  [[git]](https://github.com/faustomilletari/VNet)
 
 ## Related Awesome Lists
 
 * [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio)
+
+## Remarks
+
+Currently in progress! Add more links to help others!
