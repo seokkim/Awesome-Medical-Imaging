@@ -25,6 +25,7 @@ Curated List of Medical Imaging
 * 이준호 junhoning@gmail.com
 * 김휘영 astaria82@gmail.com
 * 김세옥 bboyseiok@gmail.com
+* 이지민 ljm861@gmail.com
 
 ## Competitions
 * [Data Science Bowl 2017 | Kaggle](https://www.kaggle.com/c/data-science-bowl-2017)
